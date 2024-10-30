@@ -1,5 +1,5 @@
 # Tetris Game
-A simple Tetris game built with HTML5 Canvas and JavaScript.
+A simple and fun Tetris game built using HTML5 Canvas and JavaScript, bringing the classic block-stacking puzzle to your browser.  
 
 ## Controls  
 Left Arrow: Move left  
